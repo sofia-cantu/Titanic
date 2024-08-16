@@ -11,5 +11,5 @@
 El archivo correspondiente a la actividad se ha enviado correctamente en la plataforma de Kaggle. A continuación, se presenta una imagen del comprobante de envío:
 
 <p align="center">
-  <img src="ArchivosExtras/ElaborandoTusEvidencias.jpeg" alt="Comprobante de la Actividad 1 en Kaggle" width="400"/>
+  <img src="/ArchivosExtras/ElaborandoTusEvidencias.jpeg" alt="Comprobante de la Actividad 1 en Kaggle" width="400"/>
 </p>
