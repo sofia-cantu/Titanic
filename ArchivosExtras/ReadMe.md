@@ -1,1 +1,1 @@
-Imagenes utilizadas en el ReadMe principal
+Imagenes utilizadas en los ReadMe del repositorio
