@@ -1,1 +1,17 @@
+# **Actividad Individual**
+
+### **Datos personales**
+- **Sofía Cantú** | Matrícula: A01571120
+
+### **Actividad 1: Implementación de una técnica de aprendizaje máquina sin el uso de un framework**
+
+Nombre completo de la actividad: Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework. (Portafolio Implementación)
+
+Challengue escogido: Week01 Challenge
+
+El codigo correspondiente a la actividad se ha subido en esta carpeta como "M2_S2_Challenge.ipynb" y evidencia en pdf llamada "M2_S2_Challenge.pdf". A continuación, se presenta una imagen de los resultados:
+
+<p align="center">
+  <img src="/ArchivosExtras/M2_A1_Graficas.png" alt="Resultados de la Actividad 1" width="800"/>
+</p>
 
