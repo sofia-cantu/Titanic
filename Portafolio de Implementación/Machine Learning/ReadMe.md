@@ -12,6 +12,6 @@ Challengue escogido: Week01 Challenge
 El codigo correspondiente a la actividad se ha subido en la carpeta Act01 y esta guardado como "M2_S2_Challenge.ipynb". La evidencia en pdf llamada "M2_S2_Challenge.pdf". A continuación, se presenta una imagen de los resultados:
 
 <p align="center">
-  <img src="/ArchivosExtras/M2_A1_Graficas.png" alt="Resultados de la Actividad 1" width="800"/>
+  <img src="/ArchivosExtras/M2_A1_Graficas.png" alt="Resultados de la Actividad 01" width="800"/>
 </p>
 
