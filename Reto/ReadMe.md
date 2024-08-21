@@ -13,3 +13,15 @@ El archivo correspondiente a la actividad se ha enviado correctamente en la plat
 <p align="center">
   <img src="/ArchivosExtras/ElaborandoTusEvidencias.jpeg" alt="Comprobante de la Actividad 1 en Kaggle" width="400"/>
 </p>
+
+
+### **Actividad 2: Limpieza del Conjunto de Datos**
+
+Nombre completo de la actividad: Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos 
+
+Se nos pidieron dos cosas en esta actividad
+1. Limpia los datos con ETLs o una herramienta equivalente de manera correcta
+2. Transforma los datos con ETLs una herramienta equivalente de manera correcta
+
+El codigo correspondiente a la actividad se ha subido en la carpeta _LimpiezaDatos_ como "M3_Reto_LimpiezaDelConjuntoDeDatos.ipynb" y evidencia en pdf llamada "M3_Reto_LimpiezaDelConjuntoDeDatos.pdf".
+
