@@ -7,7 +7,6 @@
 - **Fernanda Perez** | Matrícula: A01742102
 
 ### **Información General**
-- Módulo Responsable de evaluar el rubro: 3. Desarrollo de software aplicado a la ciencia de datos.
 - Momento de Retroalimentación
 
 ### **Actividad 2: Limpieza del Conjunto de Datos**
