@@ -1,5 +1,7 @@
 # **Resumen de Actividades**
 
+Aqui se presenta un resumen a las actividades de Implementación del Modulo 2 Machine Learing.
+
 ### **Datos personales**
 - **Sofía Cantú** | Matrícula: A01571120
 
@@ -9,10 +11,12 @@ Nombre completo de la actividad: Momento de Retroalimentación: Módulo 2 Implem
 
 Challengue escogido: Week01 Challenge
 
-El codigo correspondiente a la actividad se ha subido en la carpeta Act01 y esta guardado como "M2_S2_Challenge.ipynb". La evidencia en pdf llamada "M2_S2_Challenge.pdf". A continuación, se presenta una imagen de los resultados:
+El codigo correspondiente a la actividad se ha subido en esta carpeta como "M2_A1_Challenge.ipynb" y evidencia en pdf llamada "M2_A1_Challenge.pdf". 
+
+A continuación, se presenta una imagen de las gráficas de la versión final:
 
 <p align="center">
-  <img src="/ArchivosExtras/M2_A1_Graficas.png" alt="Resultados de la Actividad 01" width="800"/>
+  <img src="/ArchivosExtras/M2_A1_GraficasNuevas.png" alt="Resultados de la Actividad 1" width="800"/>
 </p>
 
 
