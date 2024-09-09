@@ -6,6 +6,7 @@
 - **Ozner Leyva** | Matrícula: A01742377
 - **Fernanda Perez** | Matrícula: A01742102
 
+En esta carpeta se encuentras las actividades de avances y el reto final en la carpeta con nombre "SolucionReto".
 ### **Actividad 1: Envío en Kaggle**
 
 El archivo correspondiente a la actividad se ha enviado correctamente en la plataforma de Kaggle. A continuación, se presenta una imagen del comprobante de envío:
