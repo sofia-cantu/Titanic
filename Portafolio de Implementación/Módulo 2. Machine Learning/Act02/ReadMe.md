@@ -15,3 +15,9 @@ El codigo correspondiente a la actividad se ha subido en esta carpeta como "M2_A
   <img src="/ArchivosExtras/M2_A2_Graficas.jpeg" alt="Resultados de la Actividad 2" width="800"/>
 </p>
 
+## Segunda entrega FINAL
+
+Para la segunda versión, se implementaron los siguientes cambios:
+
+### 1. Mejora de vizualización en PDF
+Se volvió a subir el PDF en mejor formato. Fue el unico cambio ya que esta actividad cumplió con todos los parametros.

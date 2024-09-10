@@ -20,3 +20,15 @@ El codigo correspondiente a la actividad se ha subido en esta carpeta como "M2_A
 </p>
 
 Como se puede apreciar, los resultados han mejorado en el nuevo modelo. 
+
+## Segunda entrega FINAL
+
+Para la segunda versión, se implementaron los siguientes cambios:
+
+
+### 1. Análisis el grado de sesgo y de varianza para los diferentes modelos
+Se agrego un análisis el grado de sesgo y de varianza para los diferentes modelos que compara las opciones que se tenían y explica el por que se eligió al final un modelo con 4 muestras. 
+
+
+### 2. Mejora de vizualización en PDF
+Se volvió a subir el PDF en mejor formato. Fue el unico cambio ya que esta actividad cumplió con todos los parametros.

@@ -14,7 +14,7 @@ De la metrica, esta carpeta cuenta con los indicadores por parte del modulo del 
 
 --------
 En esta carpeta se encuentran 4 archivos:
-- "PPT.pdf". La presentación del reto.
+- "PPT.pptx". La presentación del reto.
 - "ReadMe.md". Documentación de la carpeta.
 - "SolucionReto.ipynb" codigo con la solución. 
 - "submission.csv" archivo que se descarga en tu computadora al correr el codigo. Es el que se sube a Kaggle para obtener el porcentaje de accuracy.
