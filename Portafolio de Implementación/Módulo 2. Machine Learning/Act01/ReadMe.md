@@ -19,7 +19,7 @@ A continuación, se presenta una imagen de los resultados de la primera versión
 
 
 
-## Segunda entrega
+## Segunda entrega FINAL
 
 Para la segunda versión, se implementaron los siguientes cambios:
 
@@ -63,3 +63,6 @@ A continuación, se presenta una imagen de los resultados de la segunda versión
 <p align="center">
   <img src="/ArchivosExtras/M2_A1_GraficasNuevas.png" alt="Resultados de la Actividad 1" width="800"/>
 </p>
+
+### 5. Mejora de vizualización en PDF
+Se volvió a subir el PDF en mejor formato
