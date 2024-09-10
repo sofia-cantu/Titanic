@@ -13,7 +13,7 @@ Nombre completo de la actividad: Entrega de la solución del Reto
 De la metrica, esta carpeta cuenta con los indicadores por parte del modulo del Reto.
 
 --------
-En esta carpeta se encuentran 4 archivos
+En esta carpeta se encuentran 4 archivos:
 - "PPT.pdf". La presentación del reto.
 - "ReadMe.md". Documentación de la carpeta.
 - "SolucionReto.ipynb" codigo con la solución. 
